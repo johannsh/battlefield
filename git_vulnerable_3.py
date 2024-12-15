@@ -5,8 +5,7 @@ import sqlite3
 import requests
 from lxml import etree
 
-aws_access_key_id = 'AKIA2JAPX77RGLB664VE'
-aws_secret = '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'
+
 
 app = Flask(__name__)
 
